@@ -1,4 +1,4 @@
-## ### Olá! Eu sou o Samuel Jungo 👋, sou engenheiro de software, criador de conteúdos de programação e tecnologia!
+# Olá! Eu sou o Samuel Jungo 👋,
 <div align="center">
   <a href="https://github.com/Isaias-Jose">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelJungo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
