@@ -22,4 +22,4 @@
      <a href="https://###" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://###" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:smljungo@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/isa%C3%ADas-jos%C3%A9-82229b180](https://www.linkedin.com/in/samuel-dumbo-jungo-148b3b178/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/isa%C3%ADas-jos%C3%A9-82229b180](https://www.linkedin.com/in/samuel-dumbo-jungo-148b3b178/)" target="_blank"><img ></a>
