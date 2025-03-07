@@ -1,4 +1,4 @@
-## Oiii eu sou a Sameul jungo, programação e tecnologia!
+## Eu sou o Samuel jungo, programação e tecnologia!
 <div align="center">
   <a href="https://github.com/SamuelJungo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelJungo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
